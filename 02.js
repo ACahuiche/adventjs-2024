@@ -47,5 +47,6 @@ function createFrame(names) {
     }
   
     frame += frameTopAndBottom;
-    console.log(frame);
+    
+    return frame;
   }
