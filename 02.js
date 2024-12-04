@@ -50,3 +50,12 @@ function createFrame(names) {
     
     return frame;
   }
+  console.log(createFrame(['Alberto', 'Raul', 'ärangaricuttirimicuaro']))
+
+  //console.log(createFrame(['midu', 'madeval', 'educalvolpz']))
+
+  //console.log(createFrame(['midu']))
+
+  //console.log(createFrame(['a', 'bb', 'ccc']))
+
+  //console.log(createFrame(['a', 'bb', 'ccc', 'dddd']))
