@@ -63,8 +63,5 @@ function createXmasTree(height, ornament) {
   return tree.trim();
 }
 
-const tree1 = createXmasTree(5, '*');
+const tree1 = createXmasTree(9, '8');
 console.log(tree1);
-
-const tree2 = createXmasTree(3, '+');
-console.log(tree2);
