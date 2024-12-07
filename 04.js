@@ -27,7 +27,7 @@ function createXmasTree(height, ornament) {
   let spacesLog = (heightCount / 2) - 0.5;
   let ornamentCount = 1;
 
-  for(let n = 0; n < height; n++) {
+  for(let n = 0; n < er; n++) {
 
     for(let leftSpaces = 0; leftSpaces < spaces; leftSpaces++) {
       tree += '_';
